@@ -50,3 +50,9 @@ output:
 ```
 Executed function "HttpExample". Response: "Welcome to Azure Functions!"
 ```
+
+NB delete recources (az resource list)
+``` bash
+az group delete --name azfunctestnumto
+```
+
